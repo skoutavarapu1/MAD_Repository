@@ -1,0 +1,4 @@
+#Fri Feb 18 21:02:31 EST 2022
+base.0=D\:\\Mobile App Development - CSC6360\\MAD_Repository\\fanpageapp\\build\\app\\intermediates\\dex\\release\\minifyReleaseWithR8\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex

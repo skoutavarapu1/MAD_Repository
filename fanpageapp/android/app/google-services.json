@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "305185203353",
+    "project_id": "fanpageassignment",
+    "storage_bucket": "fanpageassignment.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:305185203353:android:1ff02e586205f1fa4c8408",
+        "android_client_info": {
+          "package_name": "com.creationdriven.fanpageapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "305185203353-kofni4j8vmaeu1pdkvg59kdu6gq29cu9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.creationdriven.fanpageapp",
+            "certificate_hash": "4d8695b60a9fac15f4d85667b68c4effe373df23"
+          }
+        },
+        {
+          "client_id": "305185203353-it1t2e16g77vfod40rnodvf5rd2ca1o4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBo0tEH1QO5a5qz8rOL_yUu-KDn-2sBb2c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "305185203353-it1t2e16g77vfod40rnodvf5rd2ca1o4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

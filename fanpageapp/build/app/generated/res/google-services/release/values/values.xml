@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">305185203353-it1t2e16g77vfod40rnodvf5rd2ca1o4.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">305185203353</string>
+    <string name="google_api_key" translatable="false">AIzaSyBo0tEH1QO5a5qz8rOL_yUu-KDn-2sBb2c</string>
+    <string name="google_app_id" translatable="false">1:305185203353:android:1ff02e586205f1fa4c8408</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyBo0tEH1QO5a5qz8rOL_yUu-KDn-2sBb2c</string>
+    <string name="google_storage_bucket" translatable="false">fanpageassignment.appspot.com</string>
+    <string name="project_id" translatable="false">fanpageassignment</string>
+</resources>
