@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "218717147637",
+    "project_id": "sellerside-app",
+    "storage_bucket": "sellerside-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:218717147637:android:b6d034796a110b3f3650bc",
+        "android_client_info": {
+          "package_name": "com.shilpa.sellersapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "218717147637-uqb14cgavttcidcnpcdiss43ujio2ch3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyADFXAcc0hj0iuXxhkUNPl6kju242Cf91k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "218717147637-uqb14cgavttcidcnpcdiss43ujio2ch3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:218717147637:android:20a350979a09b4d63650bc",
+        "android_client_info": {
+          "package_name": "com.shilpa.usersapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "218717147637-uqb14cgavttcidcnpcdiss43ujio2ch3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyADFXAcc0hj0iuXxhkUNPl6kju242Cf91k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "218717147637-uqb14cgavttcidcnpcdiss43ujio2ch3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
